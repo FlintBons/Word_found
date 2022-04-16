@@ -1,0 +1,3 @@
+B:/YandexDisk/My programs/C++/word_found/cmake-build-debug/CMakeFiles/word_found.dir
+B:/YandexDisk/My programs/C++/word_found/cmake-build-debug/CMakeFiles/edit_cache.dir
+B:/YandexDisk/My programs/C++/word_found/cmake-build-debug/CMakeFiles/rebuild_cache.dir
